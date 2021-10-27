@@ -5,5 +5,3 @@
 - 📫 You can reach me via email.
 
 <img src="https://github-readme-stats.vercel.app/api?username=axyst" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axyst" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=axyst" />
